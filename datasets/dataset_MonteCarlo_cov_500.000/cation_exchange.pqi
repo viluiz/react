@@ -1,0 +1,24 @@
+SOLUTION 0  CaCl2
+        units            mmol/kgw
+        temp             25.0
+        pH               7.0     charge
+        pe               12.5    O2(g)   -0.68
+        Ca               0.3
+        Cl               0.6
+        Na               0.0
+        K                0.0
+        N(5)             0.0                
+SOLUTION 1  Initial solution for column
+        units            mmol/kgw
+        temp             25.0
+        pH               7.0     charge
+        pe               12.5    O2(g)   -0.68
+        Ca               0.0
+        Cl               0.0        
+        Na               0.3
+        K                0.2
+        N(5)             1.0
+EXCHANGE 1
+        -equilibrate 1
+        X                0.0011
+END

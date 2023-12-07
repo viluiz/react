@@ -1,0 +1,22 @@
+Input file: cation_exchange_0.pqi
+
+Output file: cation_exchange_0.pqi.out
+
+Database file: phreeqc.dat
+
+              █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
+              ║                                            ║
+              ║           * PHREEQC-@VERSION@ *            ║
+              ║                                            ║
+              ║      A hydrogeochemical transport model    ║
+              ║                                            ║
+              ║                    by                      ║
+              ║       D.L. Parkhurst and C.A.J. Appelo     ║
+              ║                                            ║
+              ║                 @VER_DATE@                 ║
+              █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+
+
+Initializing...                                                                 
+
+End of Run after 0.011198 Seconds.
