@@ -1,4 +1,4 @@
-name: py3ml2-tab
+name: py3ml2
 channels:
   - defaults
 dependencies:
@@ -215,4 +215,3 @@ dependencies:
     - torch==1.12.1
     - tqdm==4.64.0
     - xgboost==1.6.0.dev0
-prefix: /home/viluiz/anaconda3/envs/py3ml2-tab
