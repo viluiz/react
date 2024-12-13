@@ -2,7 +2,7 @@
 
 This repository is the official implementation of: 
 
-Rapid modelling of reactive transport in porous media using machine learning: limitations and solutions (Submitted to Water Resources Research )
+Rapid modelling of reactive transport in porous media using machine learning: limitations and solutions (Submitted)
 
 ## Directories:
 
